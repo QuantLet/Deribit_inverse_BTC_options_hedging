@@ -3,6 +3,7 @@ Published in: 'Dynamic hedging of the inverse BTC option'
 Description: 'We focus on the inverse BTC options traded in Deribit and provide codes for calculating greeks under SV.'
 Keywords: 
 - 'Inverse BTC option'
+- 'option pricing'
 - 'stochastic volatility model'
 - 'dynamic hedge'
 - 'Greeks letter'
