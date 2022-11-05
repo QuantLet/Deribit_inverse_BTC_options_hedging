@@ -9,6 +9,6 @@ Keywords:
 - 'Greeks letter'
 
 Author: 
-- 'Yung Chi Chang, Huei Wen Teng, Wolfgang Haerdle'
+- 'Yung-Chi Chang, Huei Wen Teng, Wolfgang Haerdle'
 
 Submitted: 'Nov 5, 2022'
