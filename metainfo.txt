@@ -1,5 +1,5 @@
 Name of Quantlet: 'Deribit_inverse_BTC_options_hedging'
-Published in: 'Dynamic hedging of the inverse BTC option'
+Published in: 'Dynamic hedging of the inverse BTC option with Heston stochastic volatility model'
 Description: 'We focus on the inverse BTC options traded in Deribit and provide codes for calculating greeks under SV.'
 Keywords: 
 - 'Inverse BTC option'
